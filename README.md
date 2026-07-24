@@ -1,7 +1,7 @@
 <!-- PENGATURAN TATA LETAK: Menggunakan perataan tengah untuk tampilan yang lebih rapi -->
 <div align="center">
 
-# 👋 Halo Dunia, Saya Abul Mahasin!
+# 👋 Hello, Saya Abul Mahasin!
 
 <!-- 1. BADGE STATUS & TAUTAN -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abulmahasin)
